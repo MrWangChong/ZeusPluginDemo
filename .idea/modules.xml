@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZeusPlugin/ZeusPlugin.iml" filepath="$PROJECT_DIR$/ZeusPlugin/ZeusPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhotfix/testhotfix.iml" filepath="$PROJECT_DIR$/testhotfix/testhotfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testzeusplugin/testzeusplugin.iml" filepath="$PROJECT_DIR$/testzeusplugin/testzeusplugin.iml" />
+    </modules>
+  </component>
+</project>

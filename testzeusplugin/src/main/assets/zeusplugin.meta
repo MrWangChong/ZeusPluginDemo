@@ -1,0 +1,6 @@
+{
+    "name": "zeusplugin_asset",
+    "minVersion": "1",
+    "version": "2",
+    "mainClass": "com.wc.android.myapplication.MainActivity"
+}
